@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "squidlauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Squid Launcher",
+  "description": "Launcher de SquidCube",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/), xanachocolat (https://github.com/xanachocolat/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://squidcube.fr",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://squidcube.fr/support"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/SquidCube/SuidLauncher.git"
   }
 }
